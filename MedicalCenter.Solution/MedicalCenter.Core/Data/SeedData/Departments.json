@@ -1,0 +1,402 @@
+﻿[
+  {
+    "ID": 5791,
+    "Name": "Amazonas",
+    "CountryId": 57
+  },
+  {
+    "ID": 5705,
+    "Name": "Antioquia",
+    "CountryId": 57
+  },
+  {
+    "ID": 5781,
+    "Name": "Arauca",
+    "CountryId": 57
+  },
+  {
+    "ID": 5708,
+    "Name": "Atlántico",
+    "CountryId": 57
+  },
+  {
+    "ID": 5713,
+    "Name": "Bolívar",
+    "CountryId": 57
+  },
+  {
+    "ID": 5715,
+    "Name": "Boyacá",
+    "CountryId": 57
+  },
+  {
+    "ID": 5717,
+    "Name": "Caldas",
+    "CountryId": 57
+  },
+  {
+    "ID": 5718,
+    "Name": "Caquetá",
+    "CountryId": 57
+  },
+  {
+    "ID": 5785,
+    "Name": "Casanare",
+    "CountryId": 57
+  },
+  {
+    "ID": 5719,
+    "Name": "Cauca",
+    "CountryId": 57
+  },
+  {
+    "ID": 5720,
+    "Name": "Cesar",
+    "CountryId": 57
+  },
+  {
+    "ID": 5727,
+    "Name": "Chocó",
+    "CountryId": 57
+  },
+  {
+    "ID": 5723,
+    "Name": "Córdoba",
+    "CountryId": 57
+  },
+  {
+    "ID": 5711,
+    "Name": "Cundinamarca",
+    "CountryId": 57
+  },
+  {
+    "ID": 5794,
+    "Name": "Guainía",
+    "CountryId": 57
+  },
+  {
+    "ID": 5795,
+    "Name": "Guaviare",
+    "CountryId": 57
+  },
+  {
+    "ID": 5741,
+    "Name": "Huila",
+    "CountryId": 57
+  },
+  {
+    "ID": 5744,
+    "Name": "La Guajira",
+    "CountryId": 57
+  },
+  {
+    "ID": 5747,
+    "Name": "Magdalena",
+    "CountryId": 57
+  },
+  {
+    "ID": 5750,
+    "Name": "Meta",
+    "CountryId": 57
+  },
+  {
+    "ID": 5752,
+    "Name": "Nariño",
+    "CountryId": 57
+  },
+  {
+    "ID": 5754,
+    "Name": "Norte de Santander",
+    "CountryId": 57
+  },
+  {
+    "ID": 5786,
+    "Name": "Putumayo",
+    "CountryId": 57
+  },
+  {
+    "ID": 5763,
+    "Name": "Quindío",
+    "CountryId": 57
+  },
+  {
+    "ID": 5766,
+    "Name": "Risaralda",
+    "CountryId": 57
+  },
+  {
+    "ID": 5788,
+    "Name": "San Andrés y Providencia",
+    "CountryId": 57
+  },
+  {
+    "ID": 5768,
+    "Name": "Santander",
+    "CountryId": 57
+  },
+  {
+    "ID": 5770,
+    "Name": "Sucre",
+    "CountryId": 57
+  },
+  {
+    "ID": 5773,
+    "Name": "Tolima",
+    "CountryId": 57
+  },
+  {
+    "ID": 5776,
+    "Name": "Valle del Cauca",
+    "CountryId": 57
+  },
+  {
+    "ID": 5797,
+    "Name": "Vaupés",
+    "CountryId": 57
+  },
+  {
+    "ID": 5799,
+    "Name": "Vichada",
+    "CountryId": 57
+  },
+  {
+    "ID": 5801,
+    "Name": "Amazonas",
+    "CountryId": 58
+  },
+  {
+    "ID": 5802,
+    "Name": "Anzoátegui",
+    "CountryId": 58
+  },
+  {
+    "ID": 5803,
+    "Name": "Apure",
+    "CountryId": 58
+  },
+  {
+    "ID": 5804,
+    "Name": "Aragua",
+    "CountryId": 58
+  },
+  {
+    "ID": 5805,
+    "Name": "Barinas",
+    "CountryId": 58
+  },
+  {
+    "ID": 5806,
+    "Name": "Bolívar",
+    "CountryId": 58
+  },
+  {
+    "ID": 5807,
+    "Name": "Carabobo",
+    "CountryId": 58
+  },
+  {
+    "ID": 5808,
+    "Name": "Cojedes",
+    "CountryId": 58
+  },
+  {
+    "ID": 5809,
+    "Name": "Delta Amacuro",
+    "CountryId": 58
+  },
+  {
+    "ID": 5810,
+    "Name": "Falcón",
+    "CountryId": 58
+  },
+  {
+    "ID": 5811,
+    "Name": "Guárico",
+    "CountryId": 58
+  },
+  {
+    "ID": 5812,
+    "Name": "Lara",
+    "CountryId": 58
+  },
+  {
+    "ID": 5813,
+    "Name": "Mérida",
+    "CountryId": 58
+  },
+  {
+    "ID": 5814,
+    "Name": "Miranda",
+    "CountryId": 58
+  },
+  {
+    "ID": 5815,
+    "Name": "Monagas",
+    "CountryId": 58
+  },
+  {
+    "ID": 5816,
+    "Name": "Nueva Esparta",
+    "CountryId": 58
+  },
+  {
+    "ID": 5817,
+    "Name": "Portuguesa",
+    "CountryId": 58
+  },
+  {
+    "ID": 5818,
+    "Name": "Sucre",
+    "CountryId": 58
+  },
+  {
+    "ID": 5819,
+    "Name": "Táchira",
+    "CountryId": 58
+  },
+  {
+    "ID": 5820,
+    "Name": "Trujillo",
+    "CountryId": 58
+  },
+  {
+    "ID": 5821,
+    "Name": "Vargas",
+    "CountryId": 58
+  },
+  {
+    "ID": 5822,
+    "Name": "Yaracuy",
+    "CountryId": 58
+  },
+  {
+    "ID": 5823,
+    "Name": "Zulia",
+    "CountryId": 58
+  },
+  {
+    "ID": 5824,
+    "Name": "Distrito Capital",
+    "CountryId": 58
+  },
+  {
+    "ID": "0101",
+    "Name": "Azuay",
+    "CountryId": 593
+  },
+  {
+    "ID": "0201",
+    "Name": "Bolívar",
+    "CountryId": 593
+  },
+  {
+    "ID": "0301",
+    "Name": "Cañar",
+    "CountryId": 593
+  },
+  {
+    "ID": "0401",
+    "Name": "Carchi",
+    "CountryId": 593
+  },
+  {
+    "ID": "0501",
+    "Name": "Chimborazo",
+    "CountryId": 593
+  },
+  {
+    "ID": "0601",
+    "Name": "Cotopaxi",
+    "CountryId": 593
+  },
+  {
+    "ID": "0701",
+    "Name": "El Oro",
+    "CountryId": 593
+  },
+  {
+    "ID": "0801",
+    "Name": "Esmeraldas",
+    "CountryId": 593
+  },
+  {
+    "ID": "0901",
+    "Name": "Galápagos",
+    "CountryId": 593
+  },
+  {
+    "ID": 1001,
+    "Name": "Guayas",
+    "CountryId": 593
+  },
+  {
+    "ID": 1101,
+    "Name": "Imbabura",
+    "CountryId": 593
+  },
+  {
+    "ID": 1201,
+    "Name": "Loja",
+    "CountryId": 593
+  },
+  {
+    "ID": 1301,
+    "Name": "Los Ríos",
+    "CountryId": 593
+  },
+  {
+    "ID": 1401,
+    "Name": "Manabí",
+    "CountryId": 593
+  },
+  {
+    "ID": 1501,
+    "Name": "Morona Santiago",
+    "CountryId": 593
+  },
+  {
+    "ID": 1601,
+    "Name": "Napo",
+    "CountryId": 593
+  },
+  {
+    "ID": 1701,
+    "Name": "Orellana",
+    "CountryId": 593
+  },
+  {
+    "ID": 1801,
+    "Name": "Pastaza",
+    "CountryId": 593
+  },
+  {
+    "ID": 1901,
+    "Name": "Pichincha",
+    "CountryId": 593
+  },
+  {
+    "ID": 2001,
+    "Name": "Santa Elena",
+    "CountryId": 593
+  },
+  {
+    "ID": 2101,
+    "Name": "Santo Domingo de los Tsáchilas",
+    "CountryId": 593
+  },
+  {
+    "ID": 2201,
+    "Name": "Sucumbíos",
+    "CountryId": 593
+  },
+  {
+    "ID": 2301,
+    "Name": "Tungurahua",
+    "CountryId": 593
+  },
+  {
+    "ID": 2401,
+    "Name": "Zamora Chinchipe",
+    "CountryId": 593
+  }
+]

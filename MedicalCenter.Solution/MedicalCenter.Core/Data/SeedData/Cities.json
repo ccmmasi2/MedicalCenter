@@ -1,0 +1,287 @@
+﻿[
+  {
+    "ID": "91001",
+    "Name": "Leticia",
+    "DepartmentId": 91
+  },
+  {
+    "ID": "91002",
+    "Name": "Puerto Nariño",
+    "DepartmentId": 91
+  },
+  {
+    "ID": "50001",
+    "Name": "Medellín",
+    "DepartmentId": 5
+  },
+  {
+    "ID": "50002",
+    "Name": "Abejorral",
+    "DepartmentId": 5
+  },
+  {
+    "ID": "50003",
+    "Name": "Abriaquí",
+    "DepartmentId": 5
+  },
+  {
+    "ID": "81001",
+    "Name": "Arauca",
+    "DepartmentId": 81
+  },
+  {
+    "ID": "81002",
+    "Name": "Arauquita",
+    "DepartmentId": 81
+  },
+  {
+    "ID": "80001",
+    "Name": "Barranquilla",
+    "DepartmentId": 8
+  },
+  {
+    "ID": "80002",
+    "Name": "Soledad",
+    "DepartmentId": 8
+  },
+  {
+    "ID": "13001",
+    "Name": "Cartagena",
+    "DepartmentId": 13
+  },
+  {
+    "ID": "13002",
+    "Name": "Magangué",
+    "DepartmentId": 13
+  },
+  {
+    "ID": "15001",
+    "Name": "Tunja",
+    "DepartmentId": 15
+  },
+  {
+    "ID": "15002",
+    "Name": "Duitama",
+    "DepartmentId": 15
+  },
+  {
+    "ID": "17001",
+    "Name": "Manizales",
+    "DepartmentId": 17
+  },
+  {
+    "ID": "17002",
+    "Name": "Villamaría",
+    "DepartmentId": 17
+  },
+  {
+    "ID": "18001",
+    "Name": "Florencia",
+    "DepartmentId": 18
+  },
+  {
+    "ID": "18002",
+    "Name": "San Vicente del Caguán",
+    "DepartmentId": 18
+  },
+  {
+    "ID": "85001",
+    "Name": "Yopal",
+    "DepartmentId": 85
+  },
+  {
+    "ID": "85002",
+    "Name": "Aguazul",
+    "DepartmentId": 85
+  },
+  {
+    "ID": "19001",
+    "Name": "Popayán",
+    "DepartmentId": 19
+  },
+  {
+    "ID": "19002",
+    "Name": "Santander de Quilichao",
+    "DepartmentId": 19
+  },
+  {
+    "ID": "20001",
+    "Name": "Valledupar",
+    "DepartmentId": 20
+  },
+  {
+    "ID": "20002",
+    "Name": "Aguachica",
+    "DepartmentId": 20
+  },
+  {
+    "ID": "27001",
+    "Name": "Quibdó",
+    "DepartmentId": 27
+  },
+  {
+    "ID": "27002",
+    "Name": "Istmina",
+    "DepartmentId": 27
+  },
+  {
+    "ID": "23001",
+    "Name": "Montería",
+    "DepartmentId": 23
+  },
+  {
+    "ID": "23002",
+    "Name": "Cereté",
+    "DepartmentId": 23
+  },
+  {
+    "ID": "11001",
+    "Name": "Bogotá",
+    "DepartmentId": 11
+  },
+  {
+    "ID": "41001",
+    "Name": "Neiva",
+    "DepartmentId": 41
+  },
+  {
+    "ID": "41002",
+    "Name": "Pitalito",
+    "DepartmentId": 41
+  },
+  {
+    "ID": "44001",
+    "Name": "Riohacha",
+    "DepartmentId": 44
+  },
+  {
+    "ID": "44002",
+    "Name": "Maicao",
+    "DepartmentId": 44
+  },
+  {
+    "ID": "47001",
+    "Name": "Santa Marta",
+    "DepartmentId": 47
+  },
+  {
+    "ID": "47002",
+    "Name": "Ciénaga",
+    "DepartmentId": 47
+  },
+  {
+    "ID": "50001",
+    "Name": "Villavicencio",
+    "DepartmentId": 50
+  },
+  {
+    "ID": "50002",
+    "Name": "Acacías",
+    "DepartmentId": 50
+  },
+  {
+    "ID": "52001",
+    "Name": "Pasto",
+    "DepartmentId": 52
+  },
+  {
+    "ID": "52002",
+    "Name": "Tumaco",
+    "DepartmentId": 52
+  },
+  {
+    "ID": "54001",
+    "Name": "Cúcuta",
+    "DepartmentId": 54
+  },
+  {
+    "ID": "54002",
+    "Name": "Ocaña",
+    "DepartmentId": 54
+  },
+  {
+    "ID": "86001",
+    "Name": "Mocoa",
+    "DepartmentId": 86
+  },
+  {
+    "ID": "86002",
+    "Name": "Puerto Asís",
+    "DepartmentId": 86
+  },
+  {
+    "ID": "63001",
+    "Name": "Armenia",
+    "DepartmentId": 63
+  },
+  {
+    "ID": "63002",
+    "Name": "Montenegro",
+    "DepartmentId": 63
+  },
+  {
+    "ID": "66001",
+    "Name": "Pereira",
+    "DepartmentId": 66
+  },
+  {
+    "ID": "66002",
+    "Name": "Dosquebradas",
+    "DepartmentId": 66
+  },
+  {
+    "ID": "68001",
+    "Name": "Bucaramanga",
+    "DepartmentId": 68
+  },
+  {
+    "ID": "68002",
+    "Name": "Floridablanca",
+    "DepartmentId": 68
+  },
+  {
+    "ID": "70001",
+    "Name": "Sincelejo",
+    "DepartmentId": 70
+  },
+  {
+    "ID": "70002",
+    "Name": "Corozal",
+    "DepartmentId": 70
+  },
+  {
+    "ID": "73001",
+    "Name": "Ibagué",
+    "DepartmentId": 73
+  },
+  {
+    "ID": "73002",
+    "Name": "Espinal",
+    "DepartmentId": 73
+  },
+  {
+    "ID": "76001",
+    "Name": "Cali",
+    "DepartmentId": 76
+  },
+  {
+    "ID": "76002",
+    "Name": "Palmira",
+    "DepartmentId": 76
+  },
+  {
+    "ID": "94001",
+    "Name": "Inírida",
+    "DepartmentId": 94
+  },
+  {
+    "ID": "97001",
+    "Name": "Mitú",
+    "DepartmentId": 97
+  },
+  {
+    "ID": "99001",
+    "Name": "Puerto Carreño",
+    "DepartmentId": 99
+  }
+]
