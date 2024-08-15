@@ -5,5 +5,7 @@ namespace MedicalCenter.Core.ObjectRepository.Interface
 {
     public interface ICustomerRepository : IRepository<CustomerDTO>
     {
+        Task<IEnumerable<CustomerDTO>> GetCustomersByIdentification(string partialIdentification);
+
     }
 }

@@ -32,5 +32,11 @@ namespace Orders.Solution.API.Controllers
                 return StatusCode(500, "An error occurred while processing the order request");
             }
         }
+
+        [HttpGet("GetCustomersByIdentification")]
+        public async Task<IEnumerable<CustomerDTO>> GetCustomersByIdentification([FromQuery] string partialIdentification)
+        {
+            return await _customerRepository.GetCustomersByIdentification(partialIdentification);
+        }
     }
 }
