@@ -5,5 +5,6 @@ namespace MedicalCenter.Core.ObjectRepository.Interface
 {
     public interface IDepartmentRepository : IRepository<DepartmentDTO>
     {
+        Task<List<DepartmentDTO>> GetDepartmentsByCountryId(int countryId);
     }
 }
