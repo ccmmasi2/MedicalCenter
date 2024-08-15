@@ -19,5 +19,6 @@ namespace MedicalCenter.Core.Configuration
 
             builder.HasOne(e => e.IdentificationType).WithMany().HasForeignKey(e => e.IdentificationTypeId);
             builder.HasOne(e => e.City).WithMany().HasForeignKey(e => e.CityId);
+        }
     }
 }

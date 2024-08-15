@@ -70,4 +70,3 @@ namespace MedicalCenter.Core.Init
         }
     }
 }
-}
